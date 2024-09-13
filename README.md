@@ -1,11 +1,9 @@
 <h1 align="center">Hello there, I'm Andrew 👋</h1>
 <h3 align="center">A passionate full-stack developer from Egypt who loves to explore & learn new things</h3>
 
-- 🌱 I’m currently learning **redux and expressJs**
-
 - 👨‍💻 All of my projects are available at [www.andrewfahmy.net](www.andrewfahmy.net)
 
-- 💬 Ask me about **react and Django**
+- 💬 Ask me about **React Native Expo, Firebase, ReactJS, and Astro**
 
 - 📫 How to reach me **andrewfahmyDev@gmail.com**
 
